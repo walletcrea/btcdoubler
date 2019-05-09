@@ -1,0 +1,78 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+h1{
+color: orange;
+  text-shadow: 3px 3px 3px orange;
+
+}
+.d{
+    background: linear-gradient(to left,purple,mediumpurple);
+    margin-top: 50px;
+    text-align: center;
+    color: orange;
+    text-shadow: none;
+    padding: 30px;
+}
+.d img{
+    height: 5cm;
+}
+.d p{
+    font-weight: bolder;
+    color: lawngreen;
+}
+.c{
+    background: linear-gradient(to left,purple,blue);
+}
+.c img{
+    height: 5cm;
+
+}
+.c h1{
+    color: orange;
+    font-weight: bolder;
+    text-align: center;
+}
+.c h2{
+    color: deeppink;
+    text-align: center;
+    font-weight: bold;
+}
+.c p{
+    color: lawngreen;
+    text-align: center;
+    font-weight: bolder;
+}
+table,th,td{
+    border: 1px solid red;
+    text-align: center;
+    background: linear-gradient(to right,red,purple);
+    color: lightgreen;
+}
+.nav{
+    background-color: purple;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    height: 5cm;
+
+
+}
+.withdraw{
+    background: linear-gradient(to left,blueviolet,#00B7FF);
+    color: orange;
+    text-align: center;
+
+}
+.withdraw img{
+    height: 5cm;
+}
+.withdraw p{
+    color: lawngreen;
+    font-weight: bolder;
+}
